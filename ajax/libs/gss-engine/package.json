@@ -1,1 +1,0 @@
-{"autoupdate":{"source":"npm","target":"gss-engine","fileMap":[{"basePath":"dist","files":["**/*.!(coffee)"]}]},"description":"GSS styling engine","filename":"gss.min.js","keywords":["gss"],"license":"MIT","name":"gss-engine","repository":{"type":"git","url":"git://github.com/gss/engine.git"},"version":"2.0.0"}

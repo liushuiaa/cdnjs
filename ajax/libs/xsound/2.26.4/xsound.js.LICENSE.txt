@@ -1,1 +1,0 @@
-/*! xsound v2.26.4 | Korilakkuma <rilakkuma.san.xjapan@gmail.com> | license: MIT */

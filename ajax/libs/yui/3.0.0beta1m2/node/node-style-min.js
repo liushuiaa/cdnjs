@@ -1,1 +1,0 @@
-YUI.add("node-style",function(B){var A=["getStyle","getComputedStyle","setStyle","setStyles"];B.Node.importMethod(B.DOM,A);B.NodeList.importMethod(B.Node.prototype,A);},"@VERSION@",{requires:["dom-style","node-base"]});

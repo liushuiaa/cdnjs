@@ -1,8 +1,0 @@
-.vega-embed .vega-actions > a {
-  visibility: hidden;
-  margin-right: 0.6em;
-}
-
-.vega-embed:hover .vega-actions > a {
-  visibility: visible;
-}

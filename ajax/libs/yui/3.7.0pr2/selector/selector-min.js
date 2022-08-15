@@ -1,1 +1,0 @@
-YUI.add("selector",function(b,a){},"@VERSION@",{"requires":["selector-native"]});

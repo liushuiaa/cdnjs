@@ -1,1 +1,0 @@
-import t from"./input-c92110dd.js";import"./index-5cf9ee19.js";export default class extends t{static get params(){return{tag:"textarea"}}}

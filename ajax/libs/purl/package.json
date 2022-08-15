@@ -1,1 +1,0 @@
-{"authors":[{"name":"allmarkedup"}],"description":"A JS utility for for parsing URLs and extracting information out of them.","filename":"purl.min.js","keywords":["url","parser"],"license":"MIT","name":"purl","repository":{"type":"git","url":"https://github.com/allmarkedup/purl"},"version":"2.3.1","author":"allmarkedup"}

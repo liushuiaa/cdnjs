@@ -1,1 +1,0 @@
-{"description":"Davis.js is a small JavaScript library using HTML5 history.pushState that allows simple Sinatra style routing for your JavaScript apps.","filename":"davis.min.js","homepage":"http://davisjs.com","keywords":["routing","pushState","restful"],"license":"MIT","name":"davis.js","repository":{"type":"git","url":"https://github.com/olivernn/davis.js"},"version":"0.9.5"}

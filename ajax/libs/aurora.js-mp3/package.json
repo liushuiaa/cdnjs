@@ -1,1 +1,0 @@
-{"authors":[{"name":"Devon Govett","email":"devongovett@gmail.com"}],"description":"An MP3 decoder for Aurora.js","filename":"mp3.min.js","keywords":["audio","av","aurora.js","aurora","decode"],"license":"GPL","name":"aurora.js-mp3","repository":{"type":"git","url":"git://github.com/audiocogs/mp3.js"},"version":"0.1.0","author":"Devon Govett <devongovett@gmail.com>"}

@@ -1,1 +1,0 @@
-{"description":"A javascript library providing cross-browser, cross-site messaging/method invocation.","filename":"easyXDM.min.js","homepage":"http://easyxdm.net","keywords":["cross-browser","cross-domain","messaging","rpc"],"license":"MIT","name":"easyXDM","repository":{"type":"git","url":"https://github.com/oyvindkinsey/easyXDM.git"},"version":"2.4.20"}

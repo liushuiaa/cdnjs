@@ -1,1 +1,0 @@
-{"authors":[{"name":"allmarkedup"}],"description":"utility to parse urls and provide easy access to their attributes (such as the protocol, host, port etc)","filename":"purl.min.js","keywords":["jquery-url-parser","purl"],"license":"MIT","name":"jquery-url-parser","repository":{"type":"git","url":"https://github.com/allmarkedup/purl"},"version":"2.3.1","author":"allmarkedup"}

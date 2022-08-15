@@ -1,1 +1,0 @@
-{"authors":[{"name":"Evan Moran","email":"evan@evanmoran.com"}],"description":"Mustache plugin for OJ","filename":"oj.mustache.min.js","homepage":"http://ojjs.org","keywords":["oj","mustache"],"license":"MIT","name":"oj.mustache","repository":{"type":"git","url":"git://github.com/ojjs/oj.mustache.git"},"version":"0.7.2","author":"Evan Moran <evan@evanmoran.com>"}

@@ -1,1 +1,0 @@
-{"description":"The runtime for the Elm language.","filename":"elm-runtime.min.js","homepage":"http://elm-lang.org/","keywords":["elm","FRP","functional"],"license":"BSD3","name":"elm-runtime","repository":{"type":"git","url":"https://github.com/elm-lang/elm-compiler.git"},"version":"0.8.0.3"}

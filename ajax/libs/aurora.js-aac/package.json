@@ -1,1 +1,0 @@
-{"authors":[{"name":"Devon Govett","email":"devongovett@gmail.com"}],"description":"An AAC decoder for Aurora.js","filename":"aac.min.js","keywords":["audio","av","aurora.js","aurora","decode"],"license":"LGPL","name":"aurora.js-aac","repository":{"type":"git","url":"git://github.com/audiocogs/aac.js"},"version":"0.1.0","author":"Devon Govett <devongovett@gmail.com>"}

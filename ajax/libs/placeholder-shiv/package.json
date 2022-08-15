@@ -1,1 +1,0 @@
-{"description":"Tiny polyfill for the placeholder form element attribute. Requires Prototype.js or jQuery.","filename":"placeholder-shiv.min.js","keywords":["html5","polyfill"],"license":"BSD-3-Clause","name":"placeholder-shiv","repository":{"type":"git","url":"https://github.com/walterdavis/placeholder-shiv.git"},"version":"0.2"}
